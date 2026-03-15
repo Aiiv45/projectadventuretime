@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+:root{
+    --cor1: #FFFDEE;
+    --cor2: #E3EF26;
+    --cor3: #E2FBCE;
+    --cor4: #E3EF26;
+    --cor5: #076653;
+    --cor6: #E3EF26;
+    --cor7: #076653;
+    --cor8: #0C342C;
+    --cor9: #06231D;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: wheat; /*temporario*/
+}
+
+body{
+    background-color: var(--cor9);
+}
